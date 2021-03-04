@@ -1,3 +1,6 @@
+<body style="
+    background: coral;
+    ">
 <h1>Burger da Carla</h1>
 A melhor hamburgueria da região!<br>
 <br>
